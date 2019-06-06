@@ -1,2 +1,3 @@
 # hello-world
-my firs repo in Git Hub
+my first repo in Git Hub
+My name is Kostya Dunaiev.
